@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to JirehGroup!
+# Welcome to JirehGroup!
 
 **JirehGroup** is where innovation meets execution. We specialize in:
 
