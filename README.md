@@ -1,4 +1,4 @@
-# ወደ ጅረህ ግሩፕ እንኳን ደህና መጡ | Welcome to JirehGroup
+# ጅረህ ግሩፕ | JirehGroup
 
 ## ማውጫ | Table of Contents
 - [አማርኛ](#-አማርኛ)
