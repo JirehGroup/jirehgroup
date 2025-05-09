@@ -1,6 +1,6 @@
-# Welcome to JirehGroup
+# ወደ ጅረህ ግሩፕ እንኳን ደህና መጡ | Welcome to JirehGroup
 
-## Table of Contents
+## ማውጫ | Table of Contents
 - [አማርኛ](#-አማርኛ)
   - [ወደ ጅረህ ግሩፕ እንኳን ደህና መጡ](#ወደ-ጅረህ-ግሩፕ-እንኳን-ደህና-መጡ)
   - [እኛ ማን ነን](#እኛ-ማን-ነን)
